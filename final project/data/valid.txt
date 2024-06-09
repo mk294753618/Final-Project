@@ -1,0 +1,1 @@
+E:\pycv\yolov3\data\valid_image\0000001.png
